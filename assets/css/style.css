@@ -125,9 +125,7 @@ ul.menu li.selected a {
 
 ul.menu li a:hover {
     color: #e4ec04;
-    height: 16px;
-    border-bottom: 4px solid black;
-    overflow: hidden;
+
 }
 
 .site_content {
